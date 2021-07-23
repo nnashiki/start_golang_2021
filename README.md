@@ -5,5 +5,5 @@
 - path
   - gopath (sdk) 
     - `export GOROOT=/usr/local/go`
-    - `export GOPATH=$HOME`
+    - `export GOPATH=$HOME/go`
   - `export PATH=$PATH:$GOROOT/bin:$GOPATH/bin`
