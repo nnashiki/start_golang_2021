@@ -15,3 +15,6 @@
     - 最新のパッケージシステムに関して
       - https://zenn.dev/nobonobo/articles/4fb018a24f9ee9
     - https://qiita.com/Maki-Daisuke/items/80cbc26ca43cca3de4e4
+
+# ディレクトリ構成とパッケージ
+- Go-Moduleモード(1.16以降はこちら) <-> GOPATHモード
